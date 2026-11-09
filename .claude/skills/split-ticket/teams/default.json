@@ -1,0 +1,8 @@
+{
+  "team": "default",
+  "tracker": "github",
+  "days_per_point": 1.5,
+  "scale": [1, 2, 3, 5, 8],
+  "max_points": 5,
+  "points_label_prefix": "points:"
+}

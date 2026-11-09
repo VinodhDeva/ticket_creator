@@ -1,0 +1,11 @@
+{
+  "team": "jira-example",
+  "tracker": "jira",
+  "site": "your-company.atlassian.net",
+  "days_per_point": 1.5,
+  "scale": [1, 2, 3, 5, 8],
+  "max_points": 5,
+  "points_field": "customfield_10016",
+  "child_issue_type": "Story",
+  "subtask_issue_type": "Sub-task"
+}
